@@ -1,5 +1,5 @@
 # Project Title
-Customer Behavior Analytics and Churn Prediction for E-Commerce Platforms
+Analyzing Customer Behavior for E-commerce Insights
 
 # Project Overview
 Brief description of the business problem.
